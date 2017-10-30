@@ -1,0 +1,854 @@
+2017-10-29 11:09:39 INFO  Mail:126 - Got all emails
+2017-10-29 11:09:39 INFO  Mail:134 - Mails Added to successfully to list
+2017-10-29 11:09:41 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:44 INFO  Mail:126 - Got all emails
+2017-10-29 11:14:44 INFO  Mail:134 - Mails Added to successfully to list
+2017-10-29 11:14:46 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:47 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:47 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:49 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:50 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:52 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:52 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:52 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:52 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:53 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:53 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:54 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:54 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:55 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:55 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:56 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:56 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:57 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:58 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:58 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:14:59 INFO  Filter:62 - Directory already present
+2017-10-29 11:14:59 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:00 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:01 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:03 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:05 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:06 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:07 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:07 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:07 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:07 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:09 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:10 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:12 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:14 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:15 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:15 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:17 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:17 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:19 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:19 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:20 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:21 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:21 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:23 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:24 INFO  Filter:62 - Directory already present
+2017-10-29 11:15:24 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:25 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:28 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:29 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:15:30 INFO  Filter:101 - Object Written successfully
+2017-10-29 11:17:58 INFO  Mail:126 - Got all emails
+2017-10-29 11:17:58 INFO  Mail:134 - Mails Added to successfully to list
+2017-10-29 11:18:00 INFO  Filter:66 - Directory created
+2017-10-29 11:18:00 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:01 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:01 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:03 INFO  Filter:66 - Directory created
+2017-10-29 11:18:03 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:04 INFO  Filter:66 - Directory created
+2017-10-29 11:18:04 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:05 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:05 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:06 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:06 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:07 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:07 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:08 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:08 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:09 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:09 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:10 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:10 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:11 INFO  Filter:66 - Directory created
+2017-10-29 11:18:11 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:12 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:12 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:13 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:13 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:14 INFO  Filter:66 - Directory created
+2017-10-29 11:18:14 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:15 INFO  Filter:66 - Directory created
+2017-10-29 11:18:15 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:17 INFO  Filter:66 - Directory created
+2017-10-29 11:18:17 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:19 INFO  Filter:66 - Directory created
+2017-10-29 11:18:19 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:20 INFO  Filter:66 - Directory created
+2017-10-29 11:18:20 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:21 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:21 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:22 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:22 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:23 INFO  Filter:66 - Directory created
+2017-10-29 11:18:23 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:24 INFO  Filter:66 - Directory created
+2017-10-29 11:18:24 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:25 INFO  Filter:66 - Directory created
+2017-10-29 11:18:25 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:27 INFO  Filter:66 - Directory created
+2017-10-29 11:18:27 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:28 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:28 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:29 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:29 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:31 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:31 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:33 INFO  Filter:66 - Directory created
+2017-10-29 11:18:33 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:34 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:34 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:35 INFO  Filter:66 - Directory created
+2017-10-29 11:18:35 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:36 INFO  Filter:60 - Directory already present
+2017-10-29 11:18:36 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:37 INFO  Filter:66 - Directory created
+2017-10-29 11:18:37 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:39 INFO  Filter:66 - Directory created
+2017-10-29 11:18:39 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:40 INFO  Filter:66 - Directory created
+2017-10-29 11:18:40 INFO  Filter:96 - Object Written successfully
+2017-10-29 11:18:41 INFO  Filter:66 - Directory created
+2017-10-29 11:18:41 INFO  Filter:96 - Object Written successfully
+2017-10-29 12:50:54 INFO  Mail:126 - Got all emails
+2017-10-29 12:50:54 INFO  Mail:134 - Mails Added to successfully to list
+2017-10-29 12:51:00 INFO  Filter:61 - Directory created
+2017-10-29 12:51:00 INFO  Filter:149 - Object Written successfully
+2017-10-29 12:51:01 INFO  Filter:55 - Directory already present
+2017-10-29 12:51:01 INFO  Filter:149 - Object Written successfully
+2017-10-29 19:29:48 INFO  SetEndpoint:40 - File endpoint is set successfully
+2017-10-29 19:29:55 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:29:59 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:30:02 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:43:40 INFO  SetEndpoint:40 - File endpoint is set successfully
+2017-10-29 19:43:41 INFO  SetEndpoint:25 - Database endpoint set successfully
+2017-10-29 19:43:47 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:43:50 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:43:54 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:43:58 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:43:58 INFO  SetEndpoint:52 - Endpoint removed successfully
+2017-10-29 19:44:02 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:44:05 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:46:39 INFO  SetEndpoint:48 - File endpoint is set successfully
+2017-10-29 19:46:40 INFO  SetEndpoint:33 - Database endpoint set successfully
+2017-10-29 19:46:45 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:46:49 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:46:52 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:46:56 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:46:56 INFO  SetEndpoint:67 - Endpoint removed successfully
+2017-10-29 19:46:59 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:50:03 INFO  SetEndpoint:48 - File endpoint is set successfully
+2017-10-29 19:50:03 INFO  SetEndpoint:33 - Database endpoint set successfully
+2017-10-29 19:50:09 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:50:12 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:50:16 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:50:19 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:50:19 INFO  SetEndpoint:67 - Endpoint removed successfully
+2017-10-29 19:51:33 INFO  SetEndpoint:48 - File endpoint is set successfully
+2017-10-29 19:51:34 INFO  SetEndpoint:33 - Database endpoint set successfully
+2017-10-29 19:51:39 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:51:43 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:51:46 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:51:46 INFO  SetEndpoint:67 - Endpoint removed successfully
+2017-10-29 19:53:23 INFO  SetEndpoint:48 - File endpoint is set successfully
+2017-10-29 19:53:24 INFO  SetEndpoint:33 - Database endpoint set successfully
+2017-10-29 19:53:34 INFO  SetEndpoint:48 - File endpoint is set successfully
+2017-10-29 19:53:40 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:53:43 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:53:47 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:53:47 INFO  SetEndpoint:68 - Endpoint removed successfully
+2017-10-29 19:53:50 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:55:37 INFO  SetEndpoint:48 - File endpoint is set successfully
+2017-10-29 19:55:43 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:55:46 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:55:50 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:55:50 INFO  SetEndpoint:68 - Endpoint removed successfully
+2017-10-29 19:56:30 INFO  SetEndpoint:33 - Database endpoint set successfully
+2017-10-29 19:56:35 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:56:39 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:56:43 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:56:46 INFO  Mail:114 - Mail Sent Successfully
+2017-10-29 19:56:46 INFO  SetEndpoint:68 - Endpoint removed successfully
+2017-10-29 20:46:25 INFO  Mail:141 - Got all emails
+2017-10-29 20:46:25 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 20:46:27 INFO  Filter:62 - Directory created
+2017-10-29 20:46:27 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:28 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:28 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:30 INFO  Filter:62 - Directory created
+2017-10-29 20:46:30 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:31 INFO  Filter:62 - Directory created
+2017-10-29 20:46:31 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:33 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:33 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:34 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:34 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:35 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:35 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:36 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:36 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:37 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:37 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:38 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:38 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:39 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:39 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:39 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:39 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:41 INFO  Filter:62 - Directory created
+2017-10-29 20:46:41 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:42 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:42 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:43 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:43 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:45 INFO  Filter:62 - Directory created
+2017-10-29 20:46:45 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:46 INFO  Filter:62 - Directory created
+2017-10-29 20:46:46 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:47 INFO  Filter:62 - Directory created
+2017-10-29 20:46:47 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:49 INFO  Filter:62 - Directory created
+2017-10-29 20:46:49 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:50 INFO  Filter:62 - Directory created
+2017-10-29 20:46:50 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:53 INFO  Filter:62 - Directory created
+2017-10-29 20:46:53 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:56 INFO  Filter:62 - Directory created
+2017-10-29 20:46:56 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:56 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:56 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:57 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:57 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:58 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:58 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:46:59 INFO  Filter:56 - Directory already present
+2017-10-29 20:46:59 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:00 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:00 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:01 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:01 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:02 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:02 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:03 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:03 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:04 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:04 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:04 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:04 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:05 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:05 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:06 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:06 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:47:07 INFO  Filter:56 - Directory already present
+2017-10-29 20:47:07 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:48:00 INFO  Mail:141 - Got all emails
+2017-10-29 20:48:00 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 20:48:06 INFO  Filter:55 - Directory created
+2017-10-29 20:48:06 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:48:07 INFO  Filter:49 - Directory already present
+2017-10-29 20:48:07 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:55:07 INFO  Mail:141 - Got all emails
+2017-10-29 20:55:07 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 20:55:59 INFO  Mail:141 - Got all emails
+2017-10-29 20:55:59 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 20:56:06 INFO  Filter:55 - Directory created
+2017-10-29 20:56:06 INFO  Filter:32 - Object Written successfully
+2017-10-29 20:56:07 INFO  Filter:49 - Directory already present
+2017-10-29 20:56:07 INFO  Filter:32 - Object Written successfully
+2017-10-29 21:03:13 INFO  Filter:47 - Filter added successfully
+2017-10-29 21:03:17 INFO  Mail:141 - Got all emails
+2017-10-29 21:03:17 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 21:03:23 INFO  Filter:55 - Directory created
+2017-10-29 21:03:23 INFO  Filter:32 - Object Written successfully
+2017-10-29 21:03:24 INFO  Filter:49 - Directory already present
+2017-10-29 21:03:24 INFO  Filter:32 - Object Written successfully
+2017-10-29 21:03:58 INFO  Filter:57 - Filter removed successfully
+2017-10-29 21:03:58 INFO  Filter:47 - Filter added successfully
+2017-10-29 21:04:00 INFO  Mail:141 - Got all emails
+2017-10-29 21:04:00 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 21:22:36 INFO  FilterImpl:53 - Filter added successfully
+2017-10-29 21:22:40 INFO  Mail:141 - Got all emails
+2017-10-29 21:22:40 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 21:22:47 INFO  FilterImpl:55 - Directory created
+2017-10-29 21:22:47 INFO  FilterImpl:33 - Object Written successfully
+2017-10-29 21:22:48 INFO  FilterImpl:49 - Directory already present
+2017-10-29 21:22:48 INFO  FilterImpl:33 - Object Written successfully
+2017-10-29 21:25:01 INFO  FilterImpl:53 - Filter added successfully
+2017-10-29 21:25:05 INFO  Mail:141 - Got all emails
+2017-10-29 21:25:05 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 21:25:12 INFO  FilterImpl:55 - Directory created
+2017-10-29 21:25:12 INFO  FilterImpl:33 - Object Written successfully
+2017-10-29 21:25:13 INFO  FilterImpl:49 - Directory already present
+2017-10-29 21:25:13 INFO  FilterImpl:33 - Object Written successfully
+2017-10-29 21:25:48 INFO  FilterImpl:69 - Filter removed successfully
+2017-10-29 21:26:26 INFO  FilterImpl:53 - Filter added successfully
+2017-10-29 21:26:30 INFO  Mail:141 - Got all emails
+2017-10-29 21:26:30 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-29 21:26:36 INFO  FilterImpl:49 - Directory already present
+2017-10-29 21:26:36 INFO  FilterImpl:33 - Object Written successfully
+2017-10-29 21:26:37 INFO  FilterImpl:49 - Directory already present
+2017-10-29 21:26:37 INFO  FilterImpl:33 - Object Written successfully
+2017-10-29 21:27:10 INFO  FilterImpl:69 - Filter removed successfully
+2017-10-30 11:15:16 INFO  FilterImpl:69 - Filter added successfully
+2017-10-30 11:15:16 INFO  FilterImpl:110 - Filter removed successfully
+2017-10-30 11:16:29 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:16:34 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:17:37 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:17:45 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:17:45 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:17:47 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:17:47 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:17:50 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:17:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:17:52 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:17:52 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:17:55 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:17:55 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:17:57 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:17:57 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:18:02 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:18:02 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:28 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:19:35 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:19:35 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:37 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:37 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:39 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:39 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:40 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:40 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:42 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:42 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:43 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:47 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:47 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:54 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:54 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:55 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:55 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:56 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:56 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:57 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:57 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:58 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:58 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:19:59 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:19:59 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:00 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:00 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:01 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:01 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:02 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:02 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:03 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:03 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:04 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:04 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:05 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:05 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:06 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:06 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:09 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:09 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:18 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:18 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:23 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:23 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:26 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:26 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:30 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:30 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:32 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:20:32 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:20:32 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:27:11 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:27:18 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:27:18 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:20 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:20 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:21 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:21 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:23 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:23 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:24 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:24 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:25 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:25 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:26 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:26 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:27 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:27 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:29 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:29 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:30 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:30 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:31 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:31 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:31 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:31 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:32 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:32 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:33 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:33 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:34 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:34 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:36 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:27:36 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:27:36 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:35:53 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:35:59 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:35:59 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:36:52 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:37:00 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:37:00 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:03 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:03 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:05 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:05 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:06 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:06 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:09 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:09 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:10 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:10 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:16 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:16 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:20 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:20 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:22 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:22 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:25 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:25 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:26 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:26 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:27 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:27 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:28 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:28 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:31 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:31 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:35 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:35 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:37 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:37 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:38 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:38 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:39 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:39 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:40 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:40 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:41 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:41 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:43 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:50 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:53 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:53 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:56 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:56 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:57 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:57 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:37:59 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:37:59 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:38:02 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:38:02 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:38:02 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:38:55 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:39:01 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:39:01 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:03 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:03 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:05 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:05 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:06 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:06 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:08 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:08 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:09 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:09 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:11 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:11 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:13 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:13 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:14 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:14 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:15 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:15 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:16 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:16 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:17 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:17 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:18 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:18 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:19 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:19 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:20 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:20 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:21 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:21 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:22 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:22 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:23 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:23 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:24 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:24 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:25 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:25 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:26 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:26 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:29 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:29 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:32 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:32 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:33 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:33 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:35 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:35 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:36 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:36 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:38 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:39:38 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:40 INFO  FilterImpl:89 - Directory created
+2017-10-30 11:39:40 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:42 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:42 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:43 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:45 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:45 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:46 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:46 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:47 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:47 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:48 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:48 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:49 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:49 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:50 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:51 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:51 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:52 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:52 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:53 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:53 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:54 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:54 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:55 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:55 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:56 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:56 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:57 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:39:57 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:39:57 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:52:14 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:52:22 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:52:24 INFO  FilterImpl:89 - Directory created
+2017-10-30 11:52:24 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:55:43 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:55:50 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:55:53 INFO  FilterImpl:89 - Directory created
+2017-10-30 11:55:53 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:56:28 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:56:36 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:56:36 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:38 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:38 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:40 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:40 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:41 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:41 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:43 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:44 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:44 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:46 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:46 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:49 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:49 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:49 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:49 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:50 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:51 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:51 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:52 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:52 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:53 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:53 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:54 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:54 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:55 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:55 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:56 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:56 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:57 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:57 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:58 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:58 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:56:59 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:56:59 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:57:00 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:57:00 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:57:01 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:57:01 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:57:05 INFO  FilterImpl:44 - Directory already present
+2017-10-30 11:57:05 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:57:35 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:57:43 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:57:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:57:55 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:58:02 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:58:04 INFO  FilterImpl:89 - Directory created
+2017-10-30 11:58:04 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:58:26 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:58:33 INFO  FilterImpl:50 - Directory created
+2017-10-30 11:58:35 INFO  FilterImpl:89 - Directory created
+2017-10-30 11:58:35 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:36 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:36 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:38 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:38 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:40 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:40 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:41 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:41 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:42 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:42 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:43 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:44 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:44 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:46 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:46 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:47 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:47 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:48 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:48 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:49 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:49 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:50 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:51 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:51 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:52 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:52 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:53 INFO  FilterImpl:83 - Directory already present
+2017-10-30 11:58:53 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 11:58:53 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 11:59:38 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 11:59:58 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 12:00:05 INFO  FilterImpl:50 - Directory created
+2017-10-30 12:00:07 INFO  FilterImpl:89 - Directory created
+2017-10-30 12:00:07 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 12:00:37 INFO  FilterImpl:48 - Filter added successfully
+2017-10-30 12:00:41 INFO  Mail:141 - Got all emails
+2017-10-30 12:00:41 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:00:51 INFO  FilterImpl:48 - Filter added successfully
+2017-10-30 12:00:56 INFO  Mail:141 - Got all emails
+2017-10-30 12:00:56 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:00:58 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:00:58 INFO  FilterImpl:102 - Filter removed successfully
+2017-10-30 12:01:24 INFO  FilterImpl:48 - Filter added successfully
+2017-10-30 12:01:28 INFO  Mail:141 - Got all emails
+2017-10-30 12:01:28 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:01:30 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:01:30 INFO  FilterImpl:102 - Filter removed successfully
+2017-10-30 12:03:24 INFO  FilterImpl:59 - Filter added successfully
+2017-10-30 12:03:29 INFO  Mail:141 - Got all emails
+2017-10-30 12:03:29 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:03:37 INFO  FilterImpl:55 - Directory created
+2017-10-30 12:03:37 INFO  FilterImpl:107 - Filter removed successfully
+2017-10-30 12:04:01 INFO  FilterImpl:70 - Filter added successfully
+2017-10-30 12:04:09 INFO  FilterImpl:50 - Directory created
+2017-10-30 12:04:09 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:11 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:11 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:12 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:12 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:14 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:14 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:15 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:15 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:16 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:16 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:19 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:19 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:21 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:21 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:22 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:22 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:23 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:23 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:24 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:24 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:25 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:25 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:26 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:26 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:28 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:28 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:29 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:29 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:30 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:30 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:31 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:31 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:32 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:32 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:33 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:33 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:33 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:33 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:35 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:35 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:39 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:39 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:41 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:41 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:43 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:44 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:44 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:45 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:45 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:47 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:47 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:50 INFO  FilterImpl:44 - Directory already present
+2017-10-30 12:04:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:52 INFO  FilterImpl:89 - Directory created
+2017-10-30 12:04:52 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:54 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:04:54 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:55 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:04:55 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:57 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:04:57 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:04:59 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:04:59 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:00 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:00 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:01 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:01 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:03 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:03 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:05 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:05 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:06 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:06 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:06 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:06 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:08 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:08 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:09 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:09 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:10 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:10 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:11 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:11 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:13 INFO  FilterImpl:83 - Directory already present
+2017-10-30 12:05:13 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:05:13 INFO  FilterImpl:112 - Filter removed successfully
+2017-10-30 12:05:58 INFO  FilterImpl:59 - Filter added successfully
+2017-10-30 12:06:03 INFO  Mail:141 - Got all emails
+2017-10-30 12:06:03 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:06:10 INFO  FilterImpl:55 - Directory created
+2017-10-30 12:06:11 INFO  FilterImpl:55 - Directory created
+2017-10-30 12:07:05 INFO  FilterImpl:107 - Filter removed successfully
+2017-10-30 12:07:50 INFO  FilterImpl:59 - Filter added successfully
+2017-10-30 12:07:54 INFO  Mail:141 - Got all emails
+2017-10-30 12:07:54 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:08:02 INFO  FilterImpl:55 - Directory created
+2017-10-30 12:08:02 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:08:03 INFO  FilterImpl:49 - Directory already present
+2017-10-30 12:08:03 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:12 INFO  FilterImpl:107 - Filter removed successfully
+2017-10-30 12:09:17 INFO  FilterImpl:48 - Filter added successfully
+2017-10-30 12:09:22 INFO  Mail:141 - Got all emails
+2017-10-30 12:09:22 INFO  Mail:149 - Mails Added to successfully to list
+2017-10-30 12:09:24 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:24 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:26 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:26 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:28 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:28 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:29 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:29 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:31 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:31 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:32 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:32 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:33 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:33 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:34 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:34 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:36 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:36 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:37 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:37 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:38 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:38 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:39 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:39 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:41 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:41 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:42 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:42 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:43 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:43 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:45 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:45 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:49 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:49 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:50 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:50 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:52 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:52 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:53 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:53 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:55 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:55 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:58 INFO  FilterImpl:61 - Directory created
+2017-10-30 12:09:58 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:09:59 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:09:59 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:00 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:00 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:01 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:01 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:02 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:02 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:03 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:03 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:05 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:05 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:06 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:06 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:07 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:07 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:08 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:08 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:09 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:09 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:11 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:11 INFO  FilterImpl:39 - Object Written successfully
+2017-10-30 12:10:11 INFO  FilterImpl:55 - Directory already present
+2017-10-30 12:10:11 INFO  FilterImpl:39 - Object Written successfully
