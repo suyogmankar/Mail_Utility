@@ -27,7 +27,7 @@ public class UserDAO
 	 * This method extracts updated resulSet or table from
 	 * database.
 	 * @return resultSet
-	 * @throws SQLException
+	 * @throws SQLException if there would be exception related to connectivity and if queries wrongly written.
 	 */
 	public static ResultSet getResultSet() throws SQLException
 	{

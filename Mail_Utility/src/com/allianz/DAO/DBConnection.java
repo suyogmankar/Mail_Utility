@@ -21,6 +21,10 @@ public class DBConnection
 	 * This method checks whether connection is already present
 	 * If connection is present then it will return that connection otherwise 
 	 * it will create new connection and returns connection object  
+	 * @exception :SQLException
+	 * @exception:ClassNotFoundException
+	 * @exception :IOException
+	 * Either of the three exception could occur if class is not found or file not found or query wrongly written.
 	 */
 	public static Connection getConnection()
 	{
