@@ -21,7 +21,9 @@ public class FilterBySubject
 	/**
 	 * This method receives all fetched mails from Mail class
 	 * and filters out mails depending upon subject of mails
-	 * It returns nothing
+	 * @return nothing
+	 * @throws Exception - If occured,it may throw IOException when it will not find the file in which the message has to be written
+	 * or Message Exception when it would fail to fetch the message content via message object.
 	 */
 	public void filter(String search)
 	{

@@ -50,10 +50,10 @@ public class Mail implements MailService
 	 * all the values and variables which are 
 	 * required to send mail.
 	 * 
-	 * It takes vaules from properties file
+	 * It takes values from properties file
 	 * 
-	 * @throws FileNotFoundException
-	 * @throws IOException
+	 * @throws FileNotFoundException or IOException: if it will not find Authentication and Compose properties files.
+	 * 	 
 	 */
 	public Mail()
 	{
@@ -84,7 +84,7 @@ public class Mail implements MailService
 	/**
 	 * This method actually sends the mail.
 	 * It takes one String argument which represents email address of recipient
-	 * And returns nothing
+	 * @return nothing.
 	 */
 	private void send(String sendTo)
 	{

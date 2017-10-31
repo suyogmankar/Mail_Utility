@@ -29,7 +29,7 @@ public class EndpointImpl implements EndpointService
 	
 	/**
 	 * This is an overridden method from endpointService interface
-	 * and it sets endpoint as file from which email id's to be taken
+	 * and it sets Endpoint as file from which email id's to be taken
 	 * in order to send mail
 	 */
 	@Override

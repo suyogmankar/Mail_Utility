@@ -26,6 +26,9 @@ public class FilterByUnread
 	 * This method fetches all mails and 
 	 * and filter those mails which are unread.
 	 * @param inbox(Folder name)
+	 * @return nothing
+	 * @throws Exception- If occured,it may throw IOException when it will not find the content from mail from where it is fetching and
+	 *  in which the message has to be written or Message Exception when it would fail to fetch the message content via message object.
 	 */
 	public static void filterUnread(Folder inbox)
 	{        
@@ -70,6 +73,9 @@ public class FilterByUnread
 	 * This method fetches all mails and 
 	 * and filter those mails which are already read.
 	 * @param inbox(Folder name)
+	 * @return nothing.
+	 * @throws Exception- If occured,it may throw IOException when it will not find the content from mail from where it is fetching and
+	 * in which the message has to be written or Message Exception when it would fail to fetch the message content via message object.
 	 */
 	public static void filterRead(Folder inbox)
 	{        

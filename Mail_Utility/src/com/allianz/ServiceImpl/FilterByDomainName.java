@@ -19,6 +19,8 @@ public class FilterByDomainName
 	 * This method receives all fetched mails from Mail class
 	 * and filters out mails using domain name
 	 * It returns nothing
+	 * @exception -If occured,it may throw IOException when it will not find the file in which the message has to be written
+	 * or Message Exception when it would fail to fetch the message content via message object.
 	 */
 	public void filter()
 	{

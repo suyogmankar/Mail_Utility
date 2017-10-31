@@ -26,7 +26,7 @@ public class FilterImpl implements FilterService
 	 * This method simply serialize the receivedMessage object and write it file
 	 * @param receivedMessage
 	 * @param file
-	 * @throws IOException
+	 * @throws IOException:will occur,if it will not find the file where the contents have to be written down. 
 	 */
 	@SuppressWarnings("resource")
 	public static void writeToFile(ReceivedMessage receivedMessage, File file) throws IOException
